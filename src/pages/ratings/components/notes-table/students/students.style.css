@@ -1,0 +1,16 @@
+.students-container {
+   border: 2px solid peru ;
+   text-align: left;
+   margin-bottom: 2px;
+
+
+ 
+}  
+.students-without-stock{
+   color: rgb(247, 6, 6);
+  
+}
+
+.img{
+   height: 11;
+}
